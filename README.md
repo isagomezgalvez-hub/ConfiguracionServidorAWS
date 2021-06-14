@@ -1,6 +1,6 @@
 # ConfiguracionServidorAWS
 
-Hola, aquí se pueden encontrar los dos ejercicios de la Practica correspondiente al módulo Configuración de servidores y despliegue de aplicaciones.
+Aquí se pueden encontrar los dos ejercicios de la Practica correspondiente al módulo Configuración de servidores y despliegue de aplicaciones.
 
 ## Ejercicio 1
 
